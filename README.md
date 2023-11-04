@@ -1,5 +1,6 @@
 # Previsao-Renda
 
+# Projeto desenvolvido utilizando o Streamlit
 https://github.com/AntonioSCoelho97/Previsao-Renda/assets/132955062/7d15ee1e-7ef6-42ac-ab1d-dfc0cf4b1cbd
 
 # Projeto 02 - Previsão de Renda
@@ -11,8 +12,7 @@ Aplicação da metodologia **CRISP-DM**, através das 06 (seis) etapas abaixo, e
 * Etapa 5 Crisp-DM: Avaliação dos resultados; e
 * Etapa 6 Crisp-DM: Implantação.
 ## Composição
-* Um arquivo do tipo Jupyter Notebook: **Projeto-02.ipynb**, contendo as etapas acima descritas; 
-* Um arquivo do tipo CSV: **previsao_de_renda.csv**, contendo a base de dados de proponentes de cartão de crédito, na pasta "./input/";
-* Um arquivo do tipo MOV: **streamlit-projeto_2.mov**, contendo a análise exploratório da previsão de renda.
+* Um arquivo do tipo Jupyter Notebook: **Projeto-02.ipynb**, contendo as etapas acima descritas; e
+* Um arquivo do tipo CSV: **previsao_de_renda.csv**, contendo a base de dados de proponentes de cartão de crédito, na pasta "./input/".
 ## Objeto
 Realização de atividades vinculadas ao Curso: **Profissão: Cientista de Dados** da EBAC.
