@@ -1,6 +1,6 @@
 # Previsao-Renda
 
-streamlit-projeto_2.mov
+https://github.com/AntonioSCoelho97/Previsao-Renda/assets/132955062/7d15ee1e-7ef6-42ac-ab1d-dfc0cf4b1cbd
 
 # Projeto 02 - Previsão de Renda
 Aplicação da metodologia **CRISP-DM**, através das 06 (seis) etapas abaixo, em uma base dados de proponentes de cartão de crédito, oriunda de um problema de concessão de cartões de crédito, publicado no Kaggle, uma plataforma que promove desafios de ciência de dados, oferecendo prêmios em dinheiro para os melhores colocados.
