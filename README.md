@@ -15,4 +15,5 @@ Aplicação da metodologia **CRISP-DM**, através das 06 (seis) etapas abaixo, e
 * Um arquivo do tipo Jupyter Notebook: **Projeto-02.ipynb**, contendo as etapas acima descritas; e
 * Um arquivo do tipo CSV: **previsao_de_renda.csv**, contendo a base de dados de proponentes de cartão de crédito, na pasta "./input/".
 ## Objeto
-Realização de atividades vinculadas ao Curso: **Profissão: Cientista de Dados** da EBAC.
+Realização de atividades vinculadas ao Curso: **Profissão: Cientista de Dados** da EBAC:
+Desenvolver o melhor modelo preditivo de modo a explicar/prever a renda do cliente.
